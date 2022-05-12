@@ -9,6 +9,8 @@ This project was undertaken to conform a client's website to current accessabili
 This site can be used like any other, below you will find a screenshot of the current deployment of the site:
 ![screenshot](../fluffy-telegram/assets/images/screenshot.png)
 
+Here you can find a link to the deployed application : [Website](https://borthvader.github.io/fluffy-telegram/)
+
 ## Credits
 
 The primary material was sourced from [GitLab](https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-FT-05-2022-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge)
