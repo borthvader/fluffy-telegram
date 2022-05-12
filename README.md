@@ -11,7 +11,7 @@ This site can be used like any other, below you will find a screenshot of the cu
 
 ## Credits
 
-The primary material was sourced from 
+The primary material was sourced from [GitLab](https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-FT-05-2022-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge)
 
 ## License 
 
