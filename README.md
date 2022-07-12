@@ -7,7 +7,7 @@ This project was undertaken to conform a client's website to current accessabili
 ## Usage
 
 This site can be used like any other, below you will find a screenshot of the current deployment of the site:
-![screenshot](../fluffy-telegram/assets/images/screenshot.png)
+![screenshot](.assets/images/screenshot.png)
 
 Here you can find a link to the deployed application : [Website](https://borthvader.github.io/fluffy-telegram/)
 
